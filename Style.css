@@ -1,0 +1,42 @@
+#main{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+* {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 25px;
+}
+body{
+    background-image: url(private-holiday-beach.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 strong {
+    color: black;
+    background-color: cyan;
+    font-size: larger;
+    width: 100%;
+}
+p strong {
+    color: black;
+    background-color: rgb(240, 176, 189);
+    font-size: medium;
+    line-height: 45px;
+    width: 100%;
+}
+button a {
+    text-decoration: none;
+    color: white;
+}
+button a:hover {
+    opacity: 1;
+    padding-left: 10px;
+}
+h2 {
+    color: white;
+    text-shadow: 1px 1px 0px #000000;
+    font-weight: bold;
+    float: left;
+}
